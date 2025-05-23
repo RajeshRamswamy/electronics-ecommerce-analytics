@@ -4,7 +4,7 @@
 This Databricks notebook ingests raw CSV data, cleans it with PySpark, stores it as Delta tables, and performs SQL-based analysis for trends like revenue by day, top customers, and brand drop-offs.
 
 ## 📓 Notebook
-[View Notebook](notebooks/ecommerce_analytics_pipeline.ipynb)
+[View Notebook](notebooks/product_order_elt.ipynb)
 
 ## 📊 Highlights
 - Data cleaning and casting with PySpark
