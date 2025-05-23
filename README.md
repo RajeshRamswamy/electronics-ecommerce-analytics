@@ -1,7 +1,7 @@
 # E-Commerce Sales Analytics Pipeline (PySpark + SQL)
 
 ## 🔍 Overview
-This Databricks notebook ingests raw CSV data, cleans it with PySpark, stores it as Delta tables, and performs SQL-based analysis for trends like revenue by day, top customers, and brand drop-offs.
+This Databricks notebook ingests raw CSV data, cleans it with PySpark, stores it as Delta tables, and performs SQL-based analysis for trends like revenue by day, brands sales, and weekday sales.
 
 ## 📓 Notebook
 [View Notebook](notebooks/product_order_elt.ipynb)
